@@ -5,7 +5,7 @@
 Managing personal finances can be a daunting task, especially when juggling multiple accounts and currencies. To address this challenge,    
 I’d like to propose MoneyMesh, a web-based personal finance application which can be used to help users manage their finances across multiple accounts and currencies.
 
-MoneyMesh provides a simple yet powerful way to track income, expenses, and transfers through a ledger-style interface. Users can set category-wise budgets, monitor spending habits, receive alerts when limits are exceeded, and generate insightful financial reports. It may also includes investment tracking for assets like stocks, crypto, bonds, and real estate.
+MoneyMesh provides a simple yet powerful way to track income, expenses, and transfers through a ledger-style interface. Users can set category-wise budgets, monitor spending habits, receive alerts when limits are exceeded, and generate insightful financial reports. It may also include investment tracking for assets like stocks, crypto, bonds, and real estate.
 
 ## User Stories
 -   [ ] User can create an account and securely log in to the application.
